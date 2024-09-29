@@ -12,7 +12,7 @@ and programming languages.
 # 🛠️ Languages and Tools:
 - **Programming**: Java, Python, CSS
 - **Frameworks**: JavaFX
-- **Tools**: VS Code, Scene Builder, Git, GitHub
+- **Tools**: Maven, Git, GitHub, VS Code, Scene Builder
 
 # 📫 Connect with Me:
 - **LinkedIn**: https://www.linkedin.com/in/ahmet-oguzhan-kokulu/
