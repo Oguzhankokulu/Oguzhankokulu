@@ -6,13 +6,13 @@ and programming languages.
 # 👨‍💻 About Me:
 - 👀 Interested in building full-stack applications.
 - 🎓 Studying Computer Science at Hacettepe University.
-- 🌱 Exploring algorithms and data structures with special interest in problem-solving.
-- 🌱 Currently learning C++
+- 🌱 Exploring Object Detection and Mobile app development.
+- 🌱 Currently learning Flutter, OpenCV, Firebase.
 
 # 🛠️ Languages and Tools:
-- **Programming**: Java, Python, CSS
-- **Frameworks**: JavaFX
-- **Tools**: Maven, Git, GitHub, VS Code, Scene Builder
+- **Programming**: C++, Java, Python, CSS, Dart
+- **Frameworks**: Flutter, JavaFX
+- **Tools**: Maven, Git, GitHub, VS Code, Scene Builder, Firebase
 
 # 📫 Connect with Me:
 - **LinkedIn**: https://www.linkedin.com/in/ahmet-oguzhan-kokulu/
