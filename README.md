@@ -12,7 +12,7 @@ and programming languages.
 # 🛠️ Languages and Tools:
 - **Programming**: C++, Java, Python, CSS, Dart
 - **Frameworks**: Flutter, JavaFX
-- **Tools**: Maven, Git, GitHub, VS Code, Scene Builder, Firebase
+- **Tools**: Firebase, YOLO, OpenCV, Linux, Ubuntu, Git, GitHub, Maven, Scene Builder
 
 # 📫 Connect with Me:
 - **LinkedIn**: https://www.linkedin.com/in/ahmet-oguzhan-kokulu/
