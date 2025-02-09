@@ -13,7 +13,6 @@ and programming languages.
 - **Programming**: C++, Java, Python, CSS, Dart
 - **Frameworks**: Flutter, JavaFX
 - **Tools**: Firebase, YOLO, OpenCV, Linux, Ubuntu, Git, GitHub, Maven, Scene Builder
-
 # 🛠️ Languages and Tools:
 <p align="left"> 
   <a href="https://developer.android.com" target="_blank" rel="noreferrer"> 
@@ -56,9 +55,10 @@ and programming languages.
     <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gradle_logo.svg" alt="gradle" width="40" height="40"/> 
   </a>
   <a href="https://github.com/AlexeyAB/Yolo_mark" target="_blank" rel="noreferrer"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/9/9f/YOLOv4_logo.png" alt="yolo" width="40" height="40"/> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/3/3b/Yolov4-logo.svg" alt="yolo" width="40" height="40"/> 
   </a>
 </p>
+
 
 
 # 📫 Connect with Me:
