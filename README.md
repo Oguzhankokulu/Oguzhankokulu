@@ -55,7 +55,7 @@ and programming languages.
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gradle/gradle.svg" alt="gradle" width="40" height="40"/> 
   </a>
   <a href="https://github.com/AlexeyAB/Yolo_mark" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/yolo/yolo-original.svg" alt="yolo" width="40" height="40"/> 
+    <img src="https://cdn.prod.website-files.com/646dd1f1a3703e451ba81ecc/64994922cf2a6385a4bf4489_UltralyticsYOLO_mark_blue.svg" alt="yolo" width="40" height="40"/> 
   </a>
 </p>
 
