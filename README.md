@@ -52,12 +52,13 @@ and programming languages.
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/maven/maven-original.svg" alt="maven" width="40" height="40"/> 
   </a> 
   <a href="https://gradle.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gradle_logo.svg" alt="gradle" width="40" height="40"/> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/f/f5/Gradle_Logo.png" alt="gradle" width="40" height="40"/> 
   </a>
   <a href="https://github.com/AlexeyAB/Yolo_mark" target="_blank" rel="noreferrer"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/3/3b/Yolov4-logo.svg" alt="yolo" width="40" height="40"/> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/9/9f/YOLOv4_logo.png" alt="yolo" width="40" height="40"/> 
   </a>
 </p>
+
 
 
 
