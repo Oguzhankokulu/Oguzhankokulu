@@ -52,7 +52,7 @@ and programming languages.
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/maven/maven-original.svg" alt="maven" width="40" height="40"/> 
   </a> 
   <a href="https://gradle.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gradle/gradle.svg" alt="gradle" width="40" height="40"/> 
+    <img src="https://static-00.iconduck.com/assets.00/gradle-icon-2048x1504-ro73tce1.png" alt="gradle" width="40" height="40"/> 
   </a>
   <a href="https://github.com/AlexeyAB/Yolo_mark" target="_blank" rel="noreferrer"> 
     <img src="https://cdn.prod.website-files.com/646dd1f1a3703e451ba81ecc/64994922cf2a6385a4bf4489_UltralyticsYOLO_mark_blue.svg" alt="yolo" width="40" height="40"/> 
