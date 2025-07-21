@@ -1,4 +1,4 @@
-# 👋 Hi, I’m @Oguzhankokulu
+# 👋 Hi, I’m @Oguzhankokulu -> https://oguzhankokulu.github.io/portfolio/
 I’m a Computer Science student passionate about software development,
 algorithm solving, and everything tech! I enjoy solving complex problems, learning new technologies
 and programming languages.
